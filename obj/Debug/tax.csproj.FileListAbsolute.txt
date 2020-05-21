@@ -1,0 +1,9 @@
+C:\Users\อัมรินทริ์\Desktop\tax\tax\bin\Debug\tax.exe.config
+C:\Users\อัมรินทริ์\Desktop\tax\tax\bin\Debug\tax.exe
+C:\Users\อัมรินทริ์\Desktop\tax\tax\bin\Debug\tax.pdb
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.csprojAssemblyReference.cache
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.Form1.resources
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.Properties.Resources.resources
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.csproj.GenerateResource.cache
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.exe
+C:\Users\อัมรินทริ์\Desktop\tax\tax\obj\Debug\tax.pdb
